@@ -1,0 +1,12 @@
+x=10
+print(type(x),x)
+y=56.7
+print(type(y),y)
+z=[14,56,43,'python',50,999]
+print(type(z),z)
+q=(14,56,43,'python',50,999)
+print(type(q),q)
+s={14,56,43,'python',50,999}
+print(type(s),s)
+r='python'
+print(type(r),r)
