@@ -1,0 +1,6 @@
+obj = (10, 20, 30, 20, 40, 50, 20)
+print("Tuple elements:", obj)
+print("Count of 20:", obj.count(20))
+print("Count of 100:", obj.count(100))
+print("Index of 30:", obj.index(30))
+print("Index of 40:", obj.index(40))
